@@ -1,0 +1,198 @@
+@media only screen {
+  .s1 {
+    background: url("./AM_004/AM_004_D/Copy\ of\ 1.png");
+    background-size: cover;
+    background-size: 100% 100%;
+  }
+  .s2 {
+    background: url("./AM_004/AM_004_D/Copy\ of\ 2.png");
+    background-size: cover;
+    background-size: 100% 100%;
+  }
+  #snd {
+    text-align: left;
+    margin-left: 2em;
+    font-size: 4rem;
+  }
+  .s3 {
+    background: url("./AM_004/AM_004_D/Copy\ of\ 3.png");
+    background-size: cover;
+    background-size: 100% 100%;
+  }
+  .s4 {
+    background: url("./AM_004/AM_004_D/Copy\ of\ 4.png");
+    background-size: cover;
+    background-size: 100% 100%;
+  }
+  .s5 {
+    background: #8A2387;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F27121, #E94057, #8A2387); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    background-size: cover;
+    margin-bottom: 0%;
+  }
+  .s6{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(222,168,248,1) 0%, rgba(168,222,248,1) 21.8%, rgba(189,250,205,1) 35.6%, rgba(243,250,189,1) 52.9%, rgba(250,227,189,1) 66.8%, rgba(248,172,172,1) 90%, rgba(254,211,252,1) 99.7% );
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .s1 {
+    background: url("./AM_004/AM_004_P/Copy\ of\ 1.png");
+    background-size: cover;
+    background-size: 100% 100%;
+  }
+  .s2 {
+    background: url("./AM_004/AM_004_P/Copy\ of\ 2.png");
+    background-size: cover;
+    background-size: 100% 100%;
+  }
+  #snd {
+    text-align: left;
+    margin-left: 2em;
+    font-size: 4rem;
+  }
+  .s3 {
+    background: url("./AM_004/AM_004_P/Copy\ of\ 3.png");
+    background-size: cover;
+
+    background-size: 100% 100%;
+  }
+  .s4 {
+    background: url("./AM_004/AM_004_P/Copy\ of\ 4.png");
+    background-size: cover;
+
+    background-size: 100% 100%;
+  }
+  .s5 {
+    background: #8A2387;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F27121, #E94057, #8A2387); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    background-size: cover;
+    margin-bottom: 0%;
+  }
+  .s6{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(222,168,248,1) 0%, rgba(168,222,248,1) 21.8%, rgba(189,250,205,1) 35.6%, rgba(243,250,189,1) 52.9%, rgba(250,227,189,1) 66.8%, rgba(248,172,172,1) 90%, rgba(254,211,252,1) 99.7% );
+  }
+}
+
+@media only screen and (min-device-width: 768px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
+  .s1 {
+    background: url("./AM_004/AM_004_TAB_P/Copy\ of\ 1.png");
+    background-size: cover;
+
+    background-size: 100% 100%;
+  }
+  .s2 {
+    background: url("./AM_004/AM_004_TAB_P/Copy\ of\ 2.png");
+    background-size: cover;
+    background-size: 100% 100%;
+  }
+  #snd {
+    text-align: left;
+    margin-left: 2em;
+    font-size: 4rem;
+  }
+  .s3 {
+    background: url("./AM_004/AM_004_TAB_P/Copy\ of\ 3.png");
+    background-size: cover;
+
+    background-size: 100% 100%;
+  }
+  .s4 {
+    background: url("./AM_004/AM_004_TAB_P/Copy\ of\ 4.png");
+    background-size: cover;
+
+    background-size: 100% 100%;
+  }
+  .s5 {
+    background: #8A2387;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F27121, #E94057, #8A2387); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    background-size: cover;
+    margin-bottom: 0%;
+  }
+  .s6{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(222,168,248,1) 0%, rgba(168,222,248,1) 21.8%, rgba(189,250,205,1) 35.6%, rgba(243,250,189,1) 52.9%, rgba(250,227,189,1) 66.8%, rgba(248,172,172,1) 90%, rgba(254,211,252,1) 99.7% );
+  }
+}
+@media only screen and (min-device-width: 768px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
+  .s1 {
+    background: url("./AM_004/AM_004_TAB_L/Copy\ of\ 1.png");
+    background-size: cover;
+
+    background-size: 100% 100%;
+  }
+  .s2 {
+    background: url("./AM_004/AM_004_TAB_L/Copy\ of\ 2.png");
+    background-size: cover;
+    background-size: 100% 100%;
+  }
+  #snd {
+    text-align: left;
+    margin-left: 2em;
+    font-size: 4rem;
+  }
+  .s3 {
+    background: url("./AM_004/AM_004_TAB_L/Copy\ of\ 3.png");
+    background-size: cover;
+
+    background-size: 100% 100%;
+  }
+  .s4 {
+    background: url("./AM_004/AM_004_TAB_L/Copy\ of\ 4.png");
+    background-size: cover;
+
+    background-size: 100% 100%;
+  }
+  .s5 {
+    background: #8A2387;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F27121, #E94057, #8A2387); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    background-size: cover;
+    margin-bottom: 0%;
+  }
+}
+
+@media only screen and (min-width: 992px) and (orientation: landscape) {
+  .s1 {
+    background: url("./AM_004/AM_004_D/Copy\ of\ 1.png");
+    background-size: cover;
+    background-size: 100% 100%;
+  }
+  .s2 {
+    background: url("./AM_004/AM_004_D/Copy\ of\ 2.png");
+    background-size: cover;
+    background-size: 100% 100%;
+  }
+  #snd {
+    text-align: left;
+    margin-left: 2em;
+    font-size: 4rem;
+  }
+  .s3 {
+    background: url("./AM_004/AM_004_D/Copy\ of\ 3.png");
+    background-size: cover;
+    background-size: 100% 100%;
+  }
+  .s4 {
+    background: url("./AM_004/AM_004_D/Copy\ of\ 4.png");
+    background-size: cover;
+    background-size: 100% 100%;
+  }
+  .s5 {
+    background: #8A2387;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F27121, #E94057, #8A2387); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    background-size: cover;
+    margin-bottom: 0%;
+  }
+  .s6{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(222,168,248,1) 0%, rgba(168,222,248,1) 21.8%, rgba(189,250,205,1) 35.6%, rgba(243,250,189,1) 52.9%, rgba(250,227,189,1) 66.8%, rgba(248,172,172,1) 90%, rgba(254,211,252,1) 99.7% );
+  }
+}
